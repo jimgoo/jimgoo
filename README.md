@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a freelance machine learning researcher and work in [LAION medical](https://discord.gg/dBGyPUdj) on reconstructing images from fMRIs.
+
 <!--
 **jimgoo/jimgoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
