@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a freelance machine learning researcher and work in [LAION medical](https://discord.gg/dBGyPUdj) on reconstructing images from fMRIs.
+I'm a freelance machine learning researcher currently working with [LAION](https://laion.ai/) on reconstructing complex images from brain activities.
 
 <!--
 **jimgoo/jimgoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
