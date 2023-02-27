@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a AI researcher working with [LAION](https://laion.ai/) on reconstructing complex images from fMRI brain activity using diffusion models.
+I'm a freelance AI researcher working with [LAION](https://laion.ai/) and [Stability AI MedARC](https://www.medarc.ai/) on reconstructing complex images from fMRI brain activity using diffusion models.
 
 <!--
 **jimgoo/jimgoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
