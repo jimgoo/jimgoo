@@ -2,7 +2,7 @@
 
 I'm a freelancer doing open source research with [LAION](https://laion.ai/) and Stability AI [MedARC](https://www.medarc.ai/) on reconstructing complex images from fMRI brain activity using diffusion models. I also help graphic design clients leverage stable diffusion to generate new artwork using things like DreamBooth, textual inversion, prompt2prompt, pix2pix, and ControlNet. This includes deployments to all major cloud providers and managing the entire model lifecycle. If this sounds of interest to you let's <a href="https://calendly.com/jimgoo/introductory-meeting">talk about your project</a>.
 
-<img src="https://jgoode.s3.amazonaws.com/contracting-logos/logo-grid.jpg">
+<img src="https://jgoode.s3.amazonaws.com/contracting-logos/logo-grid-v2.jpg">
 
 <!--
 **jimgoo/jimgoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
