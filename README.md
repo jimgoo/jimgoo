@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I do open source research with Stability AI [MedARC](https://www.medarc.ai/) on reconstructing complex images from fMRI brain activity using diffusion models. I also help graphic design clients leverage diffusion models to generate new artwork (DreamBooth, textual inversion, prompt2prompt, pix2pix, ControlNet, etc). If this sounds of interest to you let's <a href="https://calendly.com/jimgoo/introductory-meeting">talk about your project</a>.
+I do open source research with Stability AI [MedARC](https://www.medarc.ai/) on reconstructing complex images from fMRI brain activity using diffusion models. 
 
-<img src="https://jgoode.s3.amazonaws.com/contracting-logos/logo-grid-v3.jpg">
+<!-- I also help graphic design clients leverage diffusion models to generate new artwork (DreamBooth, textual inversion, prompt2prompt, pix2pix, ControlNet, etc). If this sounds of interest to you let's <a href="https://calendly.com/jimgoo/introductory-meeting">talk about your project</a>.
+
+<img src="https://jgoode.s3.amazonaws.com/contracting-logos/logo-grid-v3.jpg"> -->
 
 <!--
 **jimgoo/jimgoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
