@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Deep learning since Theano
+# Deep learning since Theano 🧠📉
 
 <!-- I do open source research with LAION and Stability AI MedARC on reconstructing complex images from fMRI brain activity using diffusion models. -->
 
